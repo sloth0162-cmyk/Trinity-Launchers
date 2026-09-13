@@ -54,10 +54,10 @@ export default function AboutSection() {
 
             <div className="flex flex-col gap-5 text-secondary font-ui text-base leading-relaxed">
               <p>
-                Trinity Lancers is an independent freelance group — three
+                Trinity Lancers is an independent freelance group three
                 specialists who work together when a project demands more than
                 one discipline. We don&apos;t subcontract work out to
-                strangers. We build things ourselves.
+                strangers. We build things ourselvessss.
               </p>
               <p>
                 We cover frontend engineering, product design, and backend
